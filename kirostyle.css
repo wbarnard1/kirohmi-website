@@ -102,8 +102,8 @@ label {
         /* DESKTOP */
 @media screen and (max-width: 50em) {
   img {
-    width: 50%;
-    height: 50%;
+    width: 80%;
+    height: 80%;
   }
 
   .signature img{
@@ -125,8 +125,6 @@ p {
   img {
    float: center;
     object-fit: contain;
-    width:  50%;
-    height: 50%;
   }
   .donis img {
     width:  100%;
